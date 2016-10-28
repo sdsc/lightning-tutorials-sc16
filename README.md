@@ -3,6 +3,10 @@
 This repository contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for 
 the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
 
+# About education initiatives at San Diego Supercomputer Center
+
+SDSC provides quality education and training in high-performance computing, data-intensive computing, and data analytics. Researchers, professionals, and students in higher education participate in a wide range of workshops, institutes, degrees, and certificate programs. For more information, visit http://www.sdsc.edu/education_and_training/index.html
+
 ## Tutorials
 
 ### Multi-threaded and out-of-core programming in Python
