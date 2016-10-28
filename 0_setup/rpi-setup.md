@@ -19,3 +19,7 @@
 * install pip packages
 
         pip install dask[array] jupyter matplotlib
+
+## Facedetection with OpenCV
+
+    sudo apt-get install python-opencv libopencv-photo2.4
