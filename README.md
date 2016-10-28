@@ -1,9 +1,9 @@
+<img src="http://www.sdsc.edu/assets/images/logos/SDSClogo-plusname-red.jpg" style="float:right;" alt="SDSC Logo">
+
 # San Diego Supercomputer Center Lightning tutorials @ Supercomputing 2016
 
 This repository contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for 
 the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
-
-<img src="http://www.sdsc.edu/assets/images/logos/SDSClogo-plusname-red.jpg" alt="SDSC Logo">
 
 ## About education initiatives at San Diego Supercomputer Center
 
