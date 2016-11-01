@@ -1,7 +1,7 @@
 * install miniconda for ARM (reply YES to the `PATH` modifications in `.bashrc`):
 
         wget http://repo.continuum.io/miniconda/Miniconda3-3.16.0-Linux-armv7l.sh
-        bash Miniconda3-3.16.0-Linux-armv7l.sh 
+        bash Miniconda3-3.16.0-Linux-armv7l.sh
 
 * restart the terminal
 * install conda packages
@@ -19,6 +19,11 @@
 * install pip packages
 
         pip install dask[array] jupyter matplotlib traitlets
+
+## Visualize computation graphs with Dask
+
+    sudo apt-get install graphviz
+    pip install graphviz
 
 ## Facedetection with OpenCV
 
