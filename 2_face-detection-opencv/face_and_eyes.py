@@ -65,7 +65,7 @@ def main():
                      print 'about to start again in 1 sec...'
 
   cv2.destroyAllWindows()
-  cap.release()
+
 if __name__ == '__main__':
     main()
     
