@@ -6,7 +6,7 @@
 * restart the terminal
 * install conda packages
 
-        conda install h5py pandas numpy tornado ipython jinja2 traitlets pyzmq scikit-learn
+        conda install h5py pandas numpy tornado ipython jinja2 pyzmq scikit-learn
 
 * create a conda environment named `py`
 
@@ -18,7 +18,7 @@
 
 * install pip packages
 
-        pip install dask[array] jupyter matplotlib
+        pip install dask[array] jupyter matplotlib traitlets
 
 ## Facedetection with OpenCV
 
