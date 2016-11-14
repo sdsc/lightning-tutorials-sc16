@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SDSC Supercomputing 2016 Lightning Tutorials
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20161116T210000Z
+DTEND:20161116T212000Z
+DTSTAMP:20161114T061512Z
+UID:ibubnbsfa729ti80p1ipb5r40g@google.com
+CREATED:20161114T045739Z
+DESCRIPTION:Demonstration using Python and the Computer Vision\nlibrary Ope
+ nCV to detect faces in images. Taught by Robert Sinkovits\, Director of Sci
+ entific Computing Applications\, SDSC
+LAST-MODIFIED:20161114T061428Z
+LOCATION:SDSC Booth 1801
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Machine Learning: Face Recognition
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

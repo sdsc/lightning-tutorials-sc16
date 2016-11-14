@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SDSC Supercomputing 2016 Lightning Tutorials
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20161115T203000Z
+DTEND:20161115T205000Z
+DTSTAMP:20161114T050050Z
+UID:ibubnbsfa729ti80p1ipb5r40g@google.com
+CREATED:20161114T045739Z
+DESCRIPTION:Tutorial on processing data larger than memory (out-of-core com
+ puting) and using multiple cores (multi-threading) in Python using dask. Ta
+ ught by Andrea Zonca\, HPC Application Specialist\, SDSC
+LAST-MODIFIED:20161114T050032Z
+LOCATION:SDSC Booth 1801
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Multi-threaded and out-of-core programming in Python
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
