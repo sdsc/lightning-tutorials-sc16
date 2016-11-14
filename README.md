@@ -2,8 +2,8 @@
 
 # San Diego Supercomputer Center Lightning tutorials @ Supercomputing 2016
 
-This repository contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for 
-the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
+The Github repository at <https://github.com/sdsc/lightning-tutorials-sc16> contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
+Questions? Tweet to `@andreazonca` or email `zonca@sdsc.edu`.
 
 ## Tutorials
 
