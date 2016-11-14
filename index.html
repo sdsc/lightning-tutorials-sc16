@@ -3,38 +3,50 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Lightning-tutorials-sc16 by sdsc</title>
-
+    <title>San Diego Supercomputer Center Lightning tutorials at Supercomputing 2016 by sdsc</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/sdsc/lightning-tutorials-sc16">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/sdsc/lightning-tutorials-sc16/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/sdsc/lightning-tutorials-sc16/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
     <div class="wrapper">
-      <header>
-        <h1>Lightning-tutorials-sc16</h1>
-        <p>San Diego Supercomputer Center Lightning tutorials @ Supercomputing 2016</p>
 
-        <p class="view"><a href="https://github.com/sdsc/lightning-tutorials-sc16">View the Project on GitHub <small>sdsc/lightning-tutorials-sc16</small></a></p>
-
-
-        <ul>
-          <li><a href="https://github.com/sdsc/lightning-tutorials-sc16/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/sdsc/lightning-tutorials-sc16/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/sdsc/lightning-tutorials-sc16">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
       <section>
+        <div id="title">
+          <h1>San Diego Supercomputer Center Lightning tutorials at Supercomputing 2016</h1>
+          <p>Booth 1801</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/sdsc">sdsc</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
         <p><img src="http://www.sdsc.edu/assets/images/logos/SDSClogo-plusname-red.jpg" alt="SDSC Logo"></p>
 
 <h1>
 <a id="san-diego-supercomputer-center-lightning-tutorials--supercomputing-2016" class="anchor" href="#san-diego-supercomputer-center-lightning-tutorials--supercomputing-2016" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>San Diego Supercomputer Center Lightning tutorials @ Supercomputing 2016</h1>
 
-<p>This repository contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for 
-the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.</p>
+<p>The Github repository at <a href="https://github.com/sdsc/lightning-tutorials-sc16">https://github.com/sdsc/lightning-tutorials-sc16</a> contains teaching material for 15 minutes tutorials on Raspberry Pi 3 for the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
+Questions? Tweet to <code>@andreazonca</code> or email <code>zonca@sdsc.edu</code>.</p>
+
+<p>Download the <a href="https://sdsc.github.io/lightning-tutorials-sc16/SC16_SDSC_Gazette.pdf">complete program of the activities at the SDSC booth</a>.</p>
 
 <h2>
 <a id="tutorials" class="anchor" href="#tutorials" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials</h2>
@@ -43,8 +55,8 @@ the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake Cit
 <a id="multi-threaded-and-out-of-core-programming-in-python-andrea-zonca-hpc-applications-specialist" class="anchor" href="#multi-threaded-and-out-of-core-programming-in-python-andrea-zonca-hpc-applications-specialist" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Multi-threaded and out-of-core programming in Python (Andrea Zonca, HPC Applications Specialist)</h3>
 
 <ul>
-<li>Tuesday November 15th at 1:30pm, SDSC Booth 1801</li>
-<li>Wednesday November 16th at 1:30pm, SDSC Booth 1801</li>
+<li>Tuesday November 15th at 1:30pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/zonca_wed.ics">Add to calendar</a>)</li>
+<li>Wednesday November 16th at 1:30pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/zonca_thu.ics">Add to calendar</a>)</li>
 </ul>
 
 <p>Jupyter Notebooks (for Python 3) that introduce the usage of <a href="http://dask.pydata.org"><code>dask</code></a> for processing
@@ -55,8 +67,8 @@ manipulation of numpy-style arrays with multipole cores (multi-threading).</p>
 <a id="face-detection-with-opencv-robert-sinkovits-director-of-scientific-computing-applications" class="anchor" href="#face-detection-with-opencv-robert-sinkovits-director-of-scientific-computing-applications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Face detection with OpenCV (Robert Sinkovits, Director of Scientific Computing Applications)</h3>
 
 <ul>
-<li>Tuesday November 15th at 2:00pm, SDSC Booth 1801</li>
-<li>Wednesday November 16th at 2:00pm, SDSC Booth 1801</li>
+<li>Tuesday November 15th at 2:00pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/sinkovits_wed.ics">Add to calendar</a>)</li>
+<li>Wednesday November 16th at 2:00pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/sinkovits_thu.ics">Add to calendar</a>)</li>
 </ul>
 
 <p>Python 2 demo software using the Computer Vision library <code>OpenCV</code> to detect faces in images, the folder contains
@@ -66,8 +78,8 @@ also a version of the demo using a webcam connected to the Raspberry Pi.</p>
 <a id="kmeans-clustering-of-weather-data-ilkay-altintas-chief-data-science-officer" class="anchor" href="#kmeans-clustering-of-weather-data-ilkay-altintas-chief-data-science-officer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>KMeans clustering of weather data (Ilkay Altintas, Chief Data Science Officer)</h3>
 
 <ul>
-<li>Tuesday November 15th at 2:30pm, SDSC Booth 1801</li>
-<li>Wednesday November 16th at 2:30pm, SDSC Booth 1801</li>
+<li>Tuesday November 15th at 2:30pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/altintas_wed.ics">Add to calendar</a>)</li>
+<li>Wednesday November 16th at 2:30pm, SDSC Booth 1801 (<a href="https://sdsc.github.io/lightning-tutorials-sc16/ics/altintas_thu.ics">Add to calendar</a>)</li>
 </ul>
 
 <p>Jupyter Notebooks (for Python 3) that load weather data in <code>CSV</code> format with <code>pandas</code>, compute statistics, generates plots and computes KMeans clustering with <code>scikit-learn</code>.</p>
@@ -82,12 +94,9 @@ also a version of the demo using a webcam connected to the Raspberry Pi.</p>
 
 <p><a href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
       </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/sdsc">sdsc</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
