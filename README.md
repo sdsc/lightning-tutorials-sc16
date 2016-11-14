@@ -8,7 +8,7 @@ the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake Cit
 
 ### Multi-threaded and out-of-core programming in Python (Andrea Zonca, HPC Applications Specialist)
 
-* Tuesday November 15th at 1:30pm, SDSC Booth 1801
+* Tuesday November 15th at 1:30pm, SDSC Booth 1801 ([Add to calendar](https://sdsc.github.io/lightning-tutorials-sc16/ics/zonca_wed.ics))
 * Wednesday November 16th at 1:30pm, SDSC Booth 1801
 
 Jupyter Notebooks (for Python 3) that introduce the usage of [`dask`](http://dask.pydata.org) for processing
