@@ -6,7 +6,7 @@ This repository contains teaching material for 15 minutes tutorials on Raspberry
 the San Diego Supercomputer Center booth at Supercomputing 2016 in Salt Lake City.
 ## Tutorials
 
-### Multi-threaded and out-of-core programming in Python
+### Multi-threaded and out-of-core programming in Python (Andrea Zonca, HPC Applications Specialist)
 
 * Tuesday November 15th at 1:30pm, SDSC Booth 1801
 * Wednesday November 16th at 1:30pm, SDSC Booth 1801
@@ -15,7 +15,7 @@ Jupyter Notebooks (for Python 3) that introduce the usage of [`dask`](http://das
 data larger than the memory available (out-of-core computing), dependancy resolution with `dask` graphs and
 manipulation of numpy-style arrays with multipole cores (multi-threading).
 
-### Face detection with OpenCV
+### Face detection with OpenCV (Robert Sinkovits, Director of Scientific Computing Applications)
 
 * Tuesday November 15th at 2:00pm, SDSC Booth 1801
 * Wednesday November 16th at 2:00pm, SDSC Booth 1801
@@ -23,7 +23,7 @@ manipulation of numpy-style arrays with multipole cores (multi-threading).
 Python 2 demo software using the Computer Vision library `OpenCV` to detect faces in images, the folder contains
 also a version of the demo using a webcam connected to the Raspberry Pi.
 
-### KMeans clustering of weather data
+### KMeans clustering of weather data (Ilkay Altintas, Chief Data Science Officer)
 
 * Tuesday November 15th at 2:30pm, SDSC Booth 1801
 * Wednesday November 16th at 2:30pm, SDSC Booth 1801
